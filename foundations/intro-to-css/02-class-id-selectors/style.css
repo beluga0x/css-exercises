@@ -1,0 +1,17 @@
+.odd {
+    background-color: #ffcccc;
+    font-family: Verdana,"DejaVu Sans",sans-serif;
+}
+
+#title1{
+    color:rgb(0, 0, 255) ;
+    font-size: 36px;
+}
+#title2{
+    background-color:rgb(9, 235, 17);
+    font-size: 24px;
+    font-weight:bold;
+}
+.cooler{
+    font-size: 24px;
+}
